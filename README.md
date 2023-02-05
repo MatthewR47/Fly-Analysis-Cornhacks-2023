@@ -5,7 +5,7 @@ The overall summary of the tool:
 It reads in from a file of actvity data that is being read from monitors tracking fly movement. Any time that a registered file is changed, it updates the 
 prediction of which flies will perform the best in heat intense conditions based on their movement until that point. This prediction is made based on
 precalculated weights from a regression model. As the flies move, up and until 20 minutes of activity monitoring, the prediction becomes more accurate. This 
-live monitoring allows for flies to be removed early on and therefore be put asside for breeding before the heat overwelms them. Also included in this project,
+live monitoring allows for flies to be removed early on and therefore be put aside for breeding before the heat overwelms them. Also included in this project,
 is a simulation of an activity monitor to test for accurate readings.
 
 NOTE: this repo has limited version history as it was created just before submission as a public repo. The original repo we used throuhgout the project
